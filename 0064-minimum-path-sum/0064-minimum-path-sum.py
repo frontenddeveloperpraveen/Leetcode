@@ -1,30 +1,17 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        # Possible action right and down
-        memo = {}
-        def dfs(m,n):
-            if(m < 0 or n <0):
-                memo[(m,n)] = float('inf')
-                return float('inf')
-                
-            if((m,n) in memo):
-                return memo[(m,n)]
-            if(m==0 and n==0):
-                memo[(m,n)] = grid[m][n]
-                return memo[(m,n)]
-            
-            
-
-            # left movie 
-            left = dfs(m,n-1)
-
-            #Down
-            up = dfs(m-1,n)
-
-            memo[(m,n)] = min(left,up) + grid[m][n]
-            return memo[(m,n)]
-
-        return dfs(len(grid)-1,len(grid[0])-1)
-
-
+        # Lets do tabulation
+        m = len(grid)
+        n = len(grid[0])
+        dp = [[0] * n for _ in range(m)]
+        dp[0][0] = grid[0][0]
+        for i in range(1,n):
+            dp[0][i] = dp[0][i-1] + grid[0][i]
+        for i in range(1,m):
+            dp[i][0] = dp[i-1][0] + grid[i][0]
         
+        for row in range(1,m):
+            for col in range(1,n):
+                dp[row][col] = min(dp[row-1][col],dp[row][col-1])+grid[row][col]
+        
+        return dp[m-1][n-1]
