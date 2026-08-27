@@ -11,6 +11,7 @@
 | [0198-house-robber](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0198-house-robber](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +36,12 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0064-minimum-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
