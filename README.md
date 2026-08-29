@@ -29,6 +29,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0518-coin-change-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0494-target-sum) |
+## String
+|  |
+| ------- |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
