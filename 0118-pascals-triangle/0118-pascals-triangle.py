@@ -5,10 +5,6 @@ class Solution:
             if(Rows == 1):
                 result.append([1])
                 return [1]
-            if(Rows == 2):
-                Triangle(Rows-1)
-                result.append([1,1])
-                return [1,1]
             
             prev = Triangle(Rows-1)
             
