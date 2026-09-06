@@ -8,6 +8,7 @@
 | [0063-unique-paths-ii](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0213-house-robber-ii) |
@@ -25,6 +26,7 @@
 | [0064-minimum-path-sum](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/frontenddeveloperpraveen/Leetcode/tree/master/0213-house-robber-ii) |
